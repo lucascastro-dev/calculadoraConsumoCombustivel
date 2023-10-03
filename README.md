@@ -5,5 +5,5 @@ O projeto tem como base ReactJs e TypeScript.
 
 ## 📷 Screen shots
 <p align="center">
-<img src="src/assets/screenApp.png" width="200px" />
+<img src="src/assets/screenApp.png"/>
 </p>
